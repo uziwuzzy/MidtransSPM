@@ -60,6 +60,18 @@
 		<data>
 		c4thxSJG9obWOkCwr/lwK5ehCEM=
 		</data>
+		<key>Frameworks/MidtransCoreKit.framework/Info.plist</key>
+		<data>
+		OLcsilmpKYt+McYhohQ2D9QY3jI=
+		</data>
+		<key>Frameworks/MidtransCoreKit.framework/MidtransCoreKit</key>
+		<data>
+		qeRQPEorGZJm2AkzUDxG6tCAyRM=
+		</data>
+		<key>Frameworks/MidtransCoreKit.framework/_CodeSignature/CodeResources</key>
+		<data>
+		S3QDjqDDkAEm6rnPPwnUJydQ7fM=
+		</data>
 		<key>Headers/MidtransKit.h</key>
 		<data>
 		U0M8Aczz5LeGQ6ySi0aTcmt+MvE=
@@ -723,10 +735,6 @@
 		<key>bersama_preview@3x.png</key>
 		<data>
 		gUD//cFGOg6XGH06ugDJldKTq48=
-		</data>
-		<key>bin.json</key>
-		<data>
-		yDtaTX+VSayGM5LyhvCUNxWr+Uc=
 		</data>
 		<key>bni.png</key>
 		<data>
@@ -2043,6 +2051,39 @@
 			<key>hash2</key>
 			<data>
 			ZCKZzn4D8Hl6SCWsQ7LVNeAD/vEy40vEB5T+q7irlO0=
+			</data>
+		</dict>
+		<key>Frameworks/MidtransCoreKit.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OLcsilmpKYt+McYhohQ2D9QY3jI=
+			</data>
+			<key>hash2</key>
+			<data>
+			xw0JbFJjep7Rran0qQI69nMvr38EYii5UgXXgDw6NQo=
+			</data>
+		</dict>
+		<key>Frameworks/MidtransCoreKit.framework/MidtransCoreKit</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qeRQPEorGZJm2AkzUDxG6tCAyRM=
+			</data>
+			<key>hash2</key>
+			<data>
+			qMamW5nc0AUgrd0P8JLiBpQ7OYg6Pbw6gJvGb3EB7vo=
+			</data>
+		</dict>
+		<key>Frameworks/MidtransCoreKit.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			S3QDjqDDkAEm6rnPPwnUJydQ7fM=
+			</data>
+			<key>hash2</key>
+			<data>
+			86hHt1XrPE8vWenRWMXwu9ZJ/PJ+CD6W5PZl9QuHSCk=
 			</data>
 		</dict>
 		<key>Headers/MidtransKit.h</key>
@@ -3858,17 +3899,6 @@
 			<key>hash2</key>
 			<data>
 			Y0h4pv8Xhedh2ypyIYxFxQ9Tn5CAa5l5spaduKpNTOc=
-			</data>
-		</dict>
-		<key>bin.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yDtaTX+VSayGM5LyhvCUNxWr+Uc=
-			</data>
-			<key>hash2</key>
-			<data>
-			CmN4X0cckjmANiHgytJ2goIeXPA+OuY4qyVI0J+uwZM=
 			</data>
 		</dict>
 		<key>bni.png</key>
