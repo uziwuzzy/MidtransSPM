@@ -892,6 +892,18 @@
 		<data>
 		ta/rRJ2cl6jgJt0dbSMFnd7E8UU=
 		</data>
+		<key>brimo@1x.png</key>
+		<data>
+		l/Ld5zpVAcrjjSAu2NgmJ/KCFsc=
+		</data>
+		<key>brimo@2x.png</key>
+		<data>
+		fd8lV7O9biXzOse8LuBdu7mXOs8=
+		</data>
+		<key>brimo@3x.png</key>
+		<data>
+		2B49yJf773C9OjjZdFfu7gBdAR4=
+		</data>
 		<key>ccOfferIcon@2x.png</key>
 		<data>
 		HRDJ8jtjRk8GOg4vIQBroNO0FRA=
@@ -1022,7 +1034,7 @@
 		</data>
 		<key>en_bri_epay.plist</key>
 		<data>
-		q0JXoRjMrS1r9yKxJRQWPv4+EXY=
+		ISt9rw0kN+XwMf8unwJRB6s2Jsw=
 		</data>
 		<key>en_bri_va.plist</key>
 		<data>
@@ -1082,7 +1094,7 @@
 		</data>
 		<key>en_paymentMethods.plist</key>
 		<data>
-		OYlD7DsRuYqIjokjAKJUPk8++oE=
+		7If/VI4N3XHfntxNqkbH2VKn2F4=
 		</data>
 		<key>en_permata_va.plist</key>
 		<data>
@@ -1286,7 +1298,7 @@
 		</data>
 		<key>id_bri_epay.plist</key>
 		<data>
-		uRUL10FXBLBfaOFC0auW6KYBIB0=
+		Onpl85bjnUrKOjJllj1UI+rAyeI=
 		</data>
 		<key>id_bri_va.plist</key>
 		<data>
@@ -1346,7 +1358,7 @@
 		</data>
 		<key>id_paymentMethods.plist</key>
 		<data>
-		8x7vN49iQYsS0Tnv96OD3zpXwhI=
+		5zRMQDDUpIKPnpuY2JT4kFdTfls=
 		</data>
 		<key>id_permata_va.plist</key>
 		<data>
@@ -4310,6 +4322,39 @@
 			J+xsv70B2yDs+GhzMPwe3QvXAfETnG0coix5pzBux8Q=
 			</data>
 		</dict>
+		<key>brimo@1x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			l/Ld5zpVAcrjjSAu2NgmJ/KCFsc=
+			</data>
+			<key>hash2</key>
+			<data>
+			fUXJxXNVXdhbv8cYDemjDGhPLTakcyStTQsAzo1yky4=
+			</data>
+		</dict>
+		<key>brimo@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fd8lV7O9biXzOse8LuBdu7mXOs8=
+			</data>
+			<key>hash2</key>
+			<data>
+			42TInrsUKFo+N16bsdKiCIl8CB4jACmUM1IaONeF980=
+			</data>
+		</dict>
+		<key>brimo@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2B49yJf773C9OjjZdFfu7gBdAR4=
+			</data>
+			<key>hash2</key>
+			<data>
+			Lryj5qJYFC+FFMG0qa6ZLR7//6hpENqsDcO1cTiD1vQ=
+			</data>
+		</dict>
 		<key>ccOfferIcon@2x.png</key>
 		<dict>
 			<key>hash</key>
@@ -4666,11 +4711,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			q0JXoRjMrS1r9yKxJRQWPv4+EXY=
+			ISt9rw0kN+XwMf8unwJRB6s2Jsw=
 			</data>
 			<key>hash2</key>
 			<data>
-			inIZPR6cxcep74G0qS8Hp2M9hVD91nDkYHEUVLF6jGk=
+			P6DPxU6KP6Io6eLU3Z/xpdOkFWsZUCpHZCgXEz2CACQ=
 			</data>
 		</dict>
 		<key>en_bri_va.plist</key>
@@ -4831,11 +4876,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OYlD7DsRuYqIjokjAKJUPk8++oE=
+			7If/VI4N3XHfntxNqkbH2VKn2F4=
 			</data>
 			<key>hash2</key>
 			<data>
-			/5rpc6qLqsqNaZTdB/8zxRZvmYBZBnnsaN6o4oPKzwQ=
+			dAUfsh9oYPPMY6N+x1ZZyazj5hQBRZr7Tn8JWi+2Mms=
 			</data>
 		</dict>
 		<key>en_permata_va.plist</key>
@@ -5392,11 +5437,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uRUL10FXBLBfaOFC0auW6KYBIB0=
+			Onpl85bjnUrKOjJllj1UI+rAyeI=
 			</data>
 			<key>hash2</key>
 			<data>
-			d6Ew+mEpsEFBn0TBWp2gUShYfpdaaHw1QwTKHD6hsd0=
+			4yqZJDa+onuy8HGec3qdqknQ6Ijar5r/k1zTF7o+sNY=
 			</data>
 		</dict>
 		<key>id_bri_va.plist</key>
@@ -5557,11 +5602,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8x7vN49iQYsS0Tnv96OD3zpXwhI=
+			5zRMQDDUpIKPnpuY2JT4kFdTfls=
 			</data>
 			<key>hash2</key>
 			<data>
-			wklFpxoBv+7ql78X+0TzJgSKjgTYwJbB5eU8CsBwQX0=
+			PUHRwHwRDOTa04Plk0KzMZUkqiitjSvFL5p0XBWzPpU=
 			</data>
 		</dict>
 		<key>id_permata_va.plist</key>
