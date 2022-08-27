@@ -6,7 +6,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "MidtransBinDetails.h"
 
 static NSString *const TokenTypeTwoClicks = @"two_clicks";
 static NSString *const TokenTypeOneClick = @"one_click";
@@ -17,7 +16,6 @@ static NSString *const TokenTypeOneClick = @"one_click";
 @property (nonatomic, strong) NSString *expiresAt;
 @property (nonatomic, strong) NSString *maskedCard;
 @property (nonatomic, strong) NSString *token;
-@property (nonatomic) MidtransBinDetails *binDetails;
 
 + (instancetype)modelObjectWithDictionary:(NSDictionary *)dict;
 - (instancetype)initWithDictionary:(NSDictionary *)dict;
