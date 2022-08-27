@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/Midtrans3DSController.h</key>
 		<data>
-		+LF2mhPjUPlADjRp7Y3PO/eXJqI=
+		SSnaDl0NieNlkKo0EpWoU2qlYek=
 		</data>
 		<key>Headers/MidtransAddress.h</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Headers/MidtransConstant.h</key>
 		<data>
-		api/3rLiaggV5W4kva5zUIkU4qY=
+		6h8eJRfb8224qQUjbaGlRaOupSM=
 		</data>
 		<key>Headers/MidtransCoreKit.h</key>
 		<data>
@@ -374,7 +374,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		xTcKhMIrPJCKvQJEfj8To5KJ1dw=
+		OLcsilmpKYt+McYhohQ2D9QY3jI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -431,11 +431,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+LF2mhPjUPlADjRp7Y3PO/eXJqI=
+			SSnaDl0NieNlkKo0EpWoU2qlYek=
 			</data>
 			<key>hash2</key>
 			<data>
-			N/j6gq0yN1n40Cx150oaPIZdyFJIMg8hHOdcr/uOLR4=
+			OH5mH0VvfvdiZrd21b5OOsQ/K0HrjjkJvV4Gd9hYZ2Q=
 			</data>
 		</dict>
 		<key>Headers/MidtransAddress.h</key>
@@ -497,11 +497,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			api/3rLiaggV5W4kva5zUIkU4qY=
+			6h8eJRfb8224qQUjbaGlRaOupSM=
 			</data>
 			<key>hash2</key>
 			<data>
-			TgAe1j5W6amWrWP396rcgS9kowj5mq60R9ePca9KHuk=
+			UqloZRXR1POEa7SXPcklVe5rfjyfoYOaJnPWObsWH8k=
 			</data>
 		</dict>
 		<key>Headers/MidtransCoreKit.h</key>
