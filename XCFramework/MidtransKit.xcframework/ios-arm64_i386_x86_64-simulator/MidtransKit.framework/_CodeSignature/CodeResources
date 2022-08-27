@@ -60,18 +60,6 @@
 		<data>
 		c4thxSJG9obWOkCwr/lwK5ehCEM=
 		</data>
-		<key>Frameworks/MidtransCoreKit.framework/Info.plist</key>
-		<data>
-		OLcsilmpKYt+McYhohQ2D9QY3jI=
-		</data>
-		<key>Frameworks/MidtransCoreKit.framework/MidtransCoreKit</key>
-		<data>
-		qeRQPEorGZJm2AkzUDxG6tCAyRM=
-		</data>
-		<key>Frameworks/MidtransCoreKit.framework/_CodeSignature/CodeResources</key>
-		<data>
-		S3QDjqDDkAEm6rnPPwnUJydQ7fM=
-		</data>
 		<key>Headers/MidtransKit.h</key>
 		<data>
 		U0M8Aczz5LeGQ6ySi0aTcmt+MvE=
@@ -98,7 +86,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		V3QZVmxzhvSV1CSheXHbltpCGLQ=
+		4ucHx4m5PL5YLCR/G7h+GnAq5CU=
 		</data>
 		<key>InfoIcon@2x.png</key>
 		<data>
@@ -736,6 +724,10 @@
 		<data>
 		gUD//cFGOg6XGH06ugDJldKTq48=
 		</data>
+		<key>bin.json</key>
+		<data>
+		yDtaTX+VSayGM5LyhvCUNxWr+Uc=
+		</data>
 		<key>bni.png</key>
 		<data>
 		MFE7CgCh9hAeeppauV6VtvoHbZk=
@@ -900,18 +892,6 @@
 		<data>
 		ta/rRJ2cl6jgJt0dbSMFnd7E8UU=
 		</data>
-		<key>brimo@1x.png</key>
-		<data>
-		l/Ld5zpVAcrjjSAu2NgmJ/KCFsc=
-		</data>
-		<key>brimo@2x.png</key>
-		<data>
-		fd8lV7O9biXzOse8LuBdu7mXOs8=
-		</data>
-		<key>brimo@3x.png</key>
-		<data>
-		2B49yJf773C9OjjZdFfu7gBdAR4=
-		</data>
 		<key>ccOfferIcon@2x.png</key>
 		<data>
 		HRDJ8jtjRk8GOg4vIQBroNO0FRA=
@@ -1042,7 +1022,7 @@
 		</data>
 		<key>en_bri_epay.plist</key>
 		<data>
-		ISt9rw0kN+XwMf8unwJRB6s2Jsw=
+		q0JXoRjMrS1r9yKxJRQWPv4+EXY=
 		</data>
 		<key>en_bri_va.plist</key>
 		<data>
@@ -1102,7 +1082,7 @@
 		</data>
 		<key>en_paymentMethods.plist</key>
 		<data>
-		7If/VI4N3XHfntxNqkbH2VKn2F4=
+		OYlD7DsRuYqIjokjAKJUPk8++oE=
 		</data>
 		<key>en_permata_va.plist</key>
 		<data>
@@ -1306,7 +1286,7 @@
 		</data>
 		<key>id_bri_epay.plist</key>
 		<data>
-		Onpl85bjnUrKOjJllj1UI+rAyeI=
+		uRUL10FXBLBfaOFC0auW6KYBIB0=
 		</data>
 		<key>id_bri_va.plist</key>
 		<data>
@@ -1366,7 +1346,7 @@
 		</data>
 		<key>id_paymentMethods.plist</key>
 		<data>
-		5zRMQDDUpIKPnpuY2JT4kFdTfls=
+		8x7vN49iQYsS0Tnv96OD3zpXwhI=
 		</data>
 		<key>id_permata_va.plist</key>
 		<data>
@@ -2051,39 +2031,6 @@
 			<key>hash2</key>
 			<data>
 			ZCKZzn4D8Hl6SCWsQ7LVNeAD/vEy40vEB5T+q7irlO0=
-			</data>
-		</dict>
-		<key>Frameworks/MidtransCoreKit.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			OLcsilmpKYt+McYhohQ2D9QY3jI=
-			</data>
-			<key>hash2</key>
-			<data>
-			xw0JbFJjep7Rran0qQI69nMvr38EYii5UgXXgDw6NQo=
-			</data>
-		</dict>
-		<key>Frameworks/MidtransCoreKit.framework/MidtransCoreKit</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			qeRQPEorGZJm2AkzUDxG6tCAyRM=
-			</data>
-			<key>hash2</key>
-			<data>
-			qMamW5nc0AUgrd0P8JLiBpQ7OYg6Pbw6gJvGb3EB7vo=
-			</data>
-		</dict>
-		<key>Frameworks/MidtransCoreKit.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			S3QDjqDDkAEm6rnPPwnUJydQ7fM=
-			</data>
-			<key>hash2</key>
-			<data>
-			86hHt1XrPE8vWenRWMXwu9ZJ/PJ+CD6W5PZl9QuHSCk=
 			</data>
 		</dict>
 		<key>Headers/MidtransKit.h</key>
@@ -3901,6 +3848,17 @@
 			Y0h4pv8Xhedh2ypyIYxFxQ9Tn5CAa5l5spaduKpNTOc=
 			</data>
 		</dict>
+		<key>bin.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yDtaTX+VSayGM5LyhvCUNxWr+Uc=
+			</data>
+			<key>hash2</key>
+			<data>
+			CmN4X0cckjmANiHgytJ2goIeXPA+OuY4qyVI0J+uwZM=
+			</data>
+		</dict>
 		<key>bni.png</key>
 		<dict>
 			<key>hash</key>
@@ -4352,39 +4310,6 @@
 			J+xsv70B2yDs+GhzMPwe3QvXAfETnG0coix5pzBux8Q=
 			</data>
 		</dict>
-		<key>brimo@1x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			l/Ld5zpVAcrjjSAu2NgmJ/KCFsc=
-			</data>
-			<key>hash2</key>
-			<data>
-			fUXJxXNVXdhbv8cYDemjDGhPLTakcyStTQsAzo1yky4=
-			</data>
-		</dict>
-		<key>brimo@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fd8lV7O9biXzOse8LuBdu7mXOs8=
-			</data>
-			<key>hash2</key>
-			<data>
-			42TInrsUKFo+N16bsdKiCIl8CB4jACmUM1IaONeF980=
-			</data>
-		</dict>
-		<key>brimo@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2B49yJf773C9OjjZdFfu7gBdAR4=
-			</data>
-			<key>hash2</key>
-			<data>
-			Lryj5qJYFC+FFMG0qa6ZLR7//6hpENqsDcO1cTiD1vQ=
-			</data>
-		</dict>
 		<key>ccOfferIcon@2x.png</key>
 		<dict>
 			<key>hash</key>
@@ -4741,11 +4666,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ISt9rw0kN+XwMf8unwJRB6s2Jsw=
+			q0JXoRjMrS1r9yKxJRQWPv4+EXY=
 			</data>
 			<key>hash2</key>
 			<data>
-			P6DPxU6KP6Io6eLU3Z/xpdOkFWsZUCpHZCgXEz2CACQ=
+			inIZPR6cxcep74G0qS8Hp2M9hVD91nDkYHEUVLF6jGk=
 			</data>
 		</dict>
 		<key>en_bri_va.plist</key>
@@ -4906,11 +4831,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7If/VI4N3XHfntxNqkbH2VKn2F4=
+			OYlD7DsRuYqIjokjAKJUPk8++oE=
 			</data>
 			<key>hash2</key>
 			<data>
-			dAUfsh9oYPPMY6N+x1ZZyazj5hQBRZr7Tn8JWi+2Mms=
+			/5rpc6qLqsqNaZTdB/8zxRZvmYBZBnnsaN6o4oPKzwQ=
 			</data>
 		</dict>
 		<key>en_permata_va.plist</key>
@@ -5467,11 +5392,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Onpl85bjnUrKOjJllj1UI+rAyeI=
+			uRUL10FXBLBfaOFC0auW6KYBIB0=
 			</data>
 			<key>hash2</key>
 			<data>
-			4yqZJDa+onuy8HGec3qdqknQ6Ijar5r/k1zTF7o+sNY=
+			d6Ew+mEpsEFBn0TBWp2gUShYfpdaaHw1QwTKHD6hsd0=
 			</data>
 		</dict>
 		<key>id_bri_va.plist</key>
@@ -5632,11 +5557,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5zRMQDDUpIKPnpuY2JT4kFdTfls=
+			8x7vN49iQYsS0Tnv96OD3zpXwhI=
 			</data>
 			<key>hash2</key>
 			<data>
-			PUHRwHwRDOTa04Plk0KzMZUkqiitjSvFL5p0XBWzPpU=
+			wklFpxoBv+7ql78X+0TzJgSKjgTYwJbB5eU8CsBwQX0=
 			</data>
 		</dict>
 		<key>id_permata_va.plist</key>

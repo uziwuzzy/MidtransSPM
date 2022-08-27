@@ -4,14 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/MIDExbinData.h</key>
-		<data>
-		Vknl2uHT9ONR/K6PfnMygbegYRY=
-		</data>
-		<key>Headers/MIDExbinResponse.h</key>
-		<data>
-		cBEKnzsWuGXcrJMUg4K/n2LuVB0=
-		</data>
 		<key>Headers/MIDGOPAYDataModels.h</key>
 		<data>
 		hnutLP1tzVbPMCBGsax7ZICcrKw=
@@ -30,7 +22,7 @@
 		</data>
 		<key>Headers/Midtrans3DSController.h</key>
 		<data>
-		SSnaDl0NieNlkKo0EpWoU2qlYek=
+		+LF2mhPjUPlADjRp7Y3PO/eXJqI=
 		</data>
 		<key>Headers/MidtransAddress.h</key>
 		<data>
@@ -40,17 +32,13 @@
 		<data>
 		X66iXF8KtlvWIsZNsvSWu1hecvY=
 		</data>
-		<key>Headers/MidtransBinDetails.h</key>
-		<data>
-		5VzhmFVBdmD7Q7rYknGC4fTOsM4=
-		</data>
 		<key>Headers/MidtransBinResponse.h</key>
 		<data>
 		bEvHIEmDdNC0C2ip/iAjVZnBkJ8=
 		</data>
 		<key>Headers/MidtransClient.h</key>
 		<data>
-		r+bbZ3Erj4+JzyvH53y0wu+tejE=
+		NnL4ReKWwq4Hc86F0bAP3Cu6Sh0=
 		</data>
 		<key>Headers/MidtransConfig.h</key>
 		<data>
@@ -58,11 +46,11 @@
 		</data>
 		<key>Headers/MidtransConstant.h</key>
 		<data>
-		yXjxBulFS60vePBAEZMLRYKGxj4=
+		zgUeYe9v6SYq+fxAaXkIBYJF9+w=
 		</data>
 		<key>Headers/MidtransCoreKit.h</key>
 		<data>
-		cFdVwqHHZoaCgPsFCCM6tC8dufE=
+		Xx9PgHjo/VIgbpgX7gU8eIXRreQ=
 		</data>
 		<key>Headers/MidtransCreditCard.h</key>
 		<data>
@@ -254,7 +242,7 @@
 		</data>
 		<key>Headers/MidtransPaymentRequestV2SavedTokens.h</key>
 		<data>
-		6vzBYApnD6l5LoxS/RWHom0JRuM=
+		PfiABKp5qC5LQE3OTnFA+nAc1pQ=
 		</data>
 		<key>Headers/MidtransPaymentRequestV2ShippingAddress.h</key>
 		<data>
@@ -386,7 +374,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		OLcsilmpKYt+McYhohQ2D9QY3jI=
+		xTcKhMIrPJCKvQJEfj8To5KJ1dw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -395,28 +383,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/MIDExbinData.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Vknl2uHT9ONR/K6PfnMygbegYRY=
-			</data>
-			<key>hash2</key>
-			<data>
-			utcPi3d78valvrJgVxuqEBbHn5oIyKL5434dypFUhzI=
-			</data>
-		</dict>
-		<key>Headers/MIDExbinResponse.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			cBEKnzsWuGXcrJMUg4K/n2LuVB0=
-			</data>
-			<key>hash2</key>
-			<data>
-			d+4rlg6431wWHgq8lmqCZj4N3IukBqAfeeAkkvSWyno=
-			</data>
-		</dict>
 		<key>Headers/MIDGOPAYDataModels.h</key>
 		<dict>
 			<key>hash</key>
@@ -465,11 +431,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SSnaDl0NieNlkKo0EpWoU2qlYek=
+			+LF2mhPjUPlADjRp7Y3PO/eXJqI=
 			</data>
 			<key>hash2</key>
 			<data>
-			OH5mH0VvfvdiZrd21b5OOsQ/K0HrjjkJvV4Gd9hYZ2Q=
+			N/j6gq0yN1n40Cx150oaPIZdyFJIMg8hHOdcr/uOLR4=
 			</data>
 		</dict>
 		<key>Headers/MidtransAddress.h</key>
@@ -494,17 +460,6 @@
 			h8m8iSnHe7A97vlsbDWDQmTLnKITt61KyYALbdZ7G9Q=
 			</data>
 		</dict>
-		<key>Headers/MidtransBinDetails.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5VzhmFVBdmD7Q7rYknGC4fTOsM4=
-			</data>
-			<key>hash2</key>
-			<data>
-			e4+f/PU70EzI4Dlf+hNZp1FH1C8KgE+zBREOx9Ey33I=
-			</data>
-		</dict>
 		<key>Headers/MidtransBinResponse.h</key>
 		<dict>
 			<key>hash</key>
@@ -520,11 +475,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			r+bbZ3Erj4+JzyvH53y0wu+tejE=
+			NnL4ReKWwq4Hc86F0bAP3Cu6Sh0=
 			</data>
 			<key>hash2</key>
 			<data>
-			cOygk8ZWDR5V+ZxfeLRf1GOqOPWy7fX6iBDmfyq7Wwg=
+			yHjd8jFYj1MJdwczs9nty1vZr3E/8Ug0qg3LlxbyF1U=
 			</data>
 		</dict>
 		<key>Headers/MidtransConfig.h</key>
@@ -542,22 +497,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yXjxBulFS60vePBAEZMLRYKGxj4=
+			zgUeYe9v6SYq+fxAaXkIBYJF9+w=
 			</data>
 			<key>hash2</key>
 			<data>
-			sWHIZatIqsnZiyKcvoWg2yUTH1j/rO/7E1cmnJeQvKs=
+			ruqJvGUkByXpL/WSHV4Hv8BETbrN7HywjTFOtDEzins=
 			</data>
 		</dict>
 		<key>Headers/MidtransCoreKit.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cFdVwqHHZoaCgPsFCCM6tC8dufE=
+			Xx9PgHjo/VIgbpgX7gU8eIXRreQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			iGfiYQlcUzVH8RTYoE2obS2ke4q+dk8oTT0cZFpvtJw=
+			GGE9MP7ujZDLHk22goss/UknKC+9YUHuhVtZb3vsKOg=
 			</data>
 		</dict>
 		<key>Headers/MidtransCreditCard.h</key>
@@ -1081,11 +1036,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6vzBYApnD6l5LoxS/RWHom0JRuM=
+			PfiABKp5qC5LQE3OTnFA+nAc1pQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			bcVIUy/ntJa7qcRhYxCgHdyZc6TyLTgf15Y/2qqr6AQ=
+			pk+xmAf4wbnu0hBiaqptNxv3NjScuLHajnBFhkFUm+8=
 			</data>
 		</dict>
 		<key>Headers/MidtransPaymentRequestV2ShippingAddress.h</key>
