@@ -12,7 +12,7 @@ let package = Package(
             targets: ["MidtransCorekit"]),
         .library(
             name: "Midtranskit",
-            targets: ["Midtranskit"]),
+            targets: ["Midtranskit", "MidtransCorekit"]),
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
