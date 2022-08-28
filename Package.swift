@@ -25,8 +25,8 @@ let package = Package(
 //            name: "MidtransCoreKit",
 //            path: "XCFramework/MidtransCoreKit.xcframework"
 //        ),
-        .binaryTarget(name: "MidtransCoreKit", url: "https://github.com/uziwuzzy/Midtrans-xcf/releases/download/1.22.0/MidtransCoreKit-1.22.0.zip", checksum: "f2bebf1d8ef9ec9450715ddfe71534a4ecb7008e0c2b8a2362cef6832a01636c"),
-        .binaryTarget(name: "MidtransKit", url: "https://github.com/uziwuzzy/Midtrans-xcf/releases/download/1.22.0/MidtransKit-1.22.0.zip", checksum: "ad04d963dd718b69c1b57e5b00fb85e4bb6f21bb437395fcef02f04af6d747ed")
+        .binaryTarget(name: "MidtransCoreKit", url: "https://github.com/uziwuzzy/MidtransSPM/releases/download/1.22.0/MidtransCoreKit.xcframework.zip", checksum: "11552dbb54f4739e98eab279e013bebfcb71e67207362cab6df8a269549b6e12"),
+        .binaryTarget(name: "MidtransKit", url: "https://github.com/uziwuzzy/MidtransSPM/releases/download/1.22.0/MidtransKit.xcframework.zip", checksum: "be747f68cfd0147a9b69c42c8b756896ce44a0c416faba825a2c65b46328e246")
 //        .binaryTarget(
 //            name: "MidtransKit",
 //            path: "XCFramework/MidtransKit.xcframework"
