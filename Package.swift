@@ -21,15 +21,7 @@ let package = Package(
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
-//        .binaryTarget(
-//            name: "MidtransCoreKit",
-//            path: "XCFramework/MidtransCoreKit.xcframework"
-//        ),
         .binaryTarget(name: "MidtransCoreKit", url: "https://github.com/uziwuzzy/MidtransSPM/releases/download/1.22.0/MidtransCoreKit.xcframework.zip", checksum: "11552dbb54f4739e98eab279e013bebfcb71e67207362cab6df8a269549b6e12"),
         .binaryTarget(name: "MidtransKit", url: "https://github.com/uziwuzzy/MidtransSPM/releases/download/1.22.0/MidtransKit.xcframework.zip", checksum: "be747f68cfd0147a9b69c42c8b756896ce44a0c416faba825a2c65b46328e246")
-//        .binaryTarget(
-//            name: "MidtransKit",
-//            path: "XCFramework/MidtransKit.xcframework"
-//        )
     ]
 )
