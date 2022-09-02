@@ -21,7 +21,7 @@ let package = Package(
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
-        .binaryTarget(name: "MidtransCoreKit", url: "https://github.com/uziwuzzy/MidtransSPM/releases/download/1.22.0/MidtransCoreKit.xcframework.zip", checksum: "11552dbb54f4739e98eab279e013bebfcb71e67207362cab6df8a269549b6e12"),
-        .binaryTarget(name: "MidtransKit", url: "https://github.com/uziwuzzy/MidtransSPM/releases/download/1.22.0/MidtransKit.xcframework.zip", checksum: "be747f68cfd0147a9b69c42c8b756896ce44a0c416faba825a2c65b46328e246")
+        .binaryTarget(name: "MidtransCoreKit", url: "https://github.com/veritrans/Veritrans-ios-sdk/releases/download/1.23.0/MidtransCoreKit.xcframework-1.23.0.zip", checksum: "131f01b1c3292da27656dcfb176bc52c6f72eceb58cc7cdfbee52edaffb3924b"),
+        .binaryTarget(name: "MidtransKit", url: "https://github.com/veritrans/Veritrans-ios-sdk/releases/download/1.23.0/MidtransKit.xcframework-1.23.0.zip", checksum: "1f4e9339da762a47b71ac8dcd6b719ca6076bb5ad529732772786e421ab0b8b3")
     ]
 )
